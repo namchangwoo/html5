@@ -3,7 +3,7 @@ function App() {
   const apple = 1
 
   return (
-  <div>
+  <div className="center_div">
     <h1>골프 100일 완성</h1>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/B8PPbO-xYGg?si=VPYAl-jCrGTEdqsT&amp;start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
