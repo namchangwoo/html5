@@ -1,5 +1,8 @@
-// a = 1
-b = 2
-c = a+b
-c의 값 보여주기
+
+let a = 10
+const b = 20
+const c = a+b
+
+a = 50
+
 console.log(c)
